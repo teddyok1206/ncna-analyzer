@@ -23,7 +23,7 @@ st.set_page_config(
 DATA_DIR = Path(__file__).parent / "data"
 
 # ── 데이터 로드 ──────────────────────────────────
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=1800)
 def load(name: str) -> dict:
     path = DATA_DIR / f"{name}.json"
     if path.exists():
@@ -100,8 +100,12 @@ def main():
     info    = market.get("info", {}) or {}
 
     # ── 헤더 ─────────────────────────────────────
-    st.title("🧬 NuCana plc (NCNA) — 투자 분석 대시보드")
-    st.caption(f"마지막 업데이트: {updated_str(market)}")
+    h_col1, h_col2 = st.columns([6, 1])
+    h_col1.title("🧬 NuCana plc (NCNA) — 투자 분석 대시보드")
+    h_col1.caption(f"마지막 업데이트: {updated_str(market)}")
+    if h_col2.button("🔄 새로고침", use_container_width=True):
+        st.cache_data.clear()
+        st.rerun()
 
     # ── 상단 KPI 카드 ─────────────────────────────
     col1, col2, col3, col4, col5, col6 = st.columns(6)
