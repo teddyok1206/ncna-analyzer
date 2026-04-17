@@ -1,0 +1,18 @@
+# 절대 GitHub에 올라가면 안 되는 것들
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 데이터 캐시 (Actions가 관리)
+data/*.json
+
+# OS
+.DS_Store
+
+# Claude Code 설정
+.claude/
