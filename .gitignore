@@ -8,8 +8,7 @@ __pycache__/
 *.pyo
 .pytest_cache/
 
-# 데이터 캐시 (Actions가 관리)
-data/*.json
+# 데이터는 Actions가 커밋으로 관리 (gitignore 해제)
 
 # OS
 .DS_Store

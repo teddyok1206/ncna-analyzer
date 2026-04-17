@@ -1,0 +1,49 @@
+{
+  "ticker": "NCNA",
+  "updated_at": "2026-04-17T09:32:41.808502",
+  "balance_sheet": {
+    "cash_history": {
+      "2025-12-31": 24251000
+    },
+    "latest_cash": 24251000,
+    "latest_date": "2025-12-31"
+  },
+  "income_statement": {
+    "quarterly_revenue": {
+      "2025-12-31": 0,
+      "2025-09-30": 0,
+      "2025-06-30": 0,
+      "2025-03-31": 0
+    },
+    "quarterly_rd_expense": {
+      "2025-12-31": 1736000,
+      "2025-09-30": 2172000,
+      "2025-06-30": 7104000,
+      "2025-03-31": 1725000
+    }
+  },
+  "cash_flow": {
+    "quarterly_operating_cf": {
+      "2025-12-31": -27000,
+      "2025-09-30": -166000,
+      "2025-06-30": 286000,
+      "2025-03-31": 101000
+    }
+  },
+  "burn_rate": {
+    "avg_quarterly_burn": 48500,
+    "avg_monthly_burn": 16166,
+    "is_cash_burning": false
+  },
+  "runway": null,
+  "key_metrics": {
+    "market_cap": 8864999,
+    "enterprise_value": 44300349440,
+    "total_cash": 24251000,
+    "total_debt": 676000,
+    "operating_cash_flow": -7467000,
+    "free_cash_flow": -3824625,
+    "revenue_ttm": null,
+    "employees": 10
+  }
+}

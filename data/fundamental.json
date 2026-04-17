@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-04-17T09:32:46.502977",
+  "scores": {
+    "fundamental": 7
+  },
+  "flags": [
+    {
+      "type": "bullish",
+      "category": "valuation",
+      "note": "현금이 시가총액의 274% — 하방 지지력 높음"
+    },
+    {
+      "type": "neutral",
+      "category": "revenue",
+      "note": "매출 없음 — 임상 단계 바이오텍 (pipeline value에 집중)"
+    }
+  ],
+  "summary": {
+    "cash_to_market_cap_pct": 273.6,
+    "has_revenue": false,
+    "latest_quarterly_rd": 1736000
+  }
+}
