@@ -57,7 +57,7 @@ def analyze(pipeline: dict, filings: dict, news: dict) -> dict:
         elif pcd and pcd < today:
             catalyst["days_since_completion"] = (today - pcd).days
             result["recent_catalysts"].append(catalyst)
-        elif status in ("Recruiting", "Active, not recruiting"):
+        elif status.upper() in ("RECRUITING", "ACTIVE, NOT RECRUITING", "NOT YET RECRUITING"):
             result["upcoming_catalysts"].append(catalyst)
 
     # 최근성 정렬
@@ -86,7 +86,7 @@ def analyze(pipeline: dict, filings: dict, news: dict) -> dict:
             "note": f"Phase 3 임상 완료 예정 {len(phase3_upcoming)}건 — 주요 카탈리스트",
         })
 
-    recruiting = [c for c in result["upcoming_catalysts"] if c.get("status") == "Recruiting"]
+    recruiting = [c for c in result["upcoming_catalysts"] if "RECRUITING" in c.get("status", "").upper()]
     if recruiting:
         result["flags"].append({
             "type": "neutral",
@@ -139,7 +139,7 @@ def _score_importance(phase: str, status: str) -> int:
         score += 2
     elif "1" in phase:
         score += 1
-    if status in ("Active, not recruiting", "Completed"):
+    if status.upper() in ("ACTIVE, NOT RECRUITING", "COMPLETED"):
         score += 1
     return score
 

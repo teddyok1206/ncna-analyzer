@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-17T09:32:46.505469",
-  "risk_score": 5,
+  "updated_at": "2026-04-17T09:47:12.728091",
+  "risk_score": 7,
   "risks": [
+    {
+      "level": "high",
+      "category": "pipeline",
+      "title": "임상 중단 이력",
+      "detail": "4건의 임상이 종료됨. 파이프라인 집중 리스크.",
+      "score": 2
+    },
     {
       "level": "medium",
       "category": "pipeline",
@@ -25,10 +32,10 @@
     }
   ],
   "risk_summary": {
-    "total_risks": 3,
+    "total_risks": 4,
     "critical": 0,
-    "high": 1,
+    "high": 2,
     "medium": 2,
-    "overall_level": "보통"
+    "overall_level": "높음"
   }
 }

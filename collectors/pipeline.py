@@ -49,8 +49,8 @@ def collect() -> dict:
         "total": len(result["studies"]),
         "by_phase": phases,
         "by_status": statuses,
-        "recruiting": [s for s in result["studies"] if "Recruiting" in s.get("status", "")],
-        "completed": [s for s in result["studies"] if "Completed" in s.get("status", "")],
+        "recruiting": [s for s in result["studies"] if "RECRUITING" in s.get("status", "").upper()],
+        "completed": [s for s in result["studies"] if "COMPLETED" in s.get("status", "").upper()],
     }
 
     return result

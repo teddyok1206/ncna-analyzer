@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T09:32:46.503510",
+  "updated_at": "2026-04-17T09:47:12.725033",
   "upcoming_catalysts": [
     {
       "nct_id": "NCT03829254",
@@ -99,7 +99,7 @@
         "Neoplasms, Colorectal"
       ],
       "catalyst_type": "Phase 2 Data Readout",
-      "importance": 2,
+      "importance": 3,
       "days_since_completion": 759
     },
     {
@@ -154,7 +154,7 @@
         "Cancer"
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
-      "importance": 1,
+      "importance": 2,
       "days_since_completion": 2244
     },
     {
@@ -193,7 +193,7 @@
         "Ampullary Cancer"
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
-      "importance": 1,
+      "importance": 2,
       "days_since_completion": 2604
     },
     {
@@ -211,7 +211,7 @@
         "Recurrent Ovarian Cancer"
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
-      "importance": 1,
+      "importance": 2,
       "days_since_completion": 3371
     },
     {
@@ -229,12 +229,17 @@
         "Cancer"
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
-      "importance": 1,
+      "importance": 2,
       "days_since_completion": 3973
     }
   ],
   "catalyst_score": 2,
-  "flags": [],
+  "flags": [
+    {
+      "type": "neutral",
+      "note": "현재 모집 중인 임상 1건"
+    }
+  ],
   "filing_based_catalysts": [],
   "news_based_catalysts": [
     {

@@ -48,7 +48,7 @@ def analyze(financials: dict, market: dict, pipeline: dict, filings: dict, news:
     studies = pipeline.get("studies", [])
     phase3 = [s for s in studies if "3" in s.get("phase", "")]
     phase2 = [s for s in studies if "2" in s.get("phase", "")]
-    terminated = [s for s in studies if "Terminat" in s.get("status", "")]
+    terminated = [s for s in studies if "TERMINAT" in s.get("status", "").upper()]
 
     if terminated:
         risks.append({"level": "high", "category": "pipeline",
