@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T01:22:37.716988",
+  "updated_at": "2026-04-19T01:45:09.652879",
   "upcoming_catalysts": [
     {
       "nct_id": "NCT03829254",
@@ -20,7 +20,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_until_completion": 105
+      "days_until_completion": 104
     }
   ],
   "recent_catalysts": [
@@ -56,7 +56,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 323
+      "days_since_completion": 324
     },
     {
       "nct_id": "NCT05678257",
@@ -78,7 +78,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 597
+      "days_since_completion": 598
     },
     {
       "nct_id": "NCT03428958",
@@ -100,7 +100,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 3,
-      "days_since_completion": 760
+      "days_since_completion": 761
     },
     {
       "nct_id": "NCT04163900",
@@ -118,7 +118,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 1508
+      "days_since_completion": 1509
     },
     {
       "nct_id": "NCT03610100",
@@ -137,7 +137,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 2055
+      "days_since_completion": 2056
     },
     {
       "nct_id": "NCT02723240",
@@ -155,7 +155,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2245
+      "days_since_completion": 2246
     },
     {
       "nct_id": "NCT03146663",
@@ -173,7 +173,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 2300
+      "days_since_completion": 2301
     },
     {
       "nct_id": "NCT02351765",
@@ -194,7 +194,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2605
+      "days_since_completion": 2606
     },
     {
       "nct_id": "NCT02303912",
@@ -212,7 +212,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3372
+      "days_since_completion": 3373
     },
     {
       "nct_id": "NCT01621854",
@@ -230,7 +230,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3974
+      "days_since_completion": 3975
     }
   ],
   "catalyst_score": 2,
@@ -242,12 +242,6 @@
   ],
   "filing_based_catalysts": [],
   "news_based_catalysts": [
-    {
-      "date": "Wed, 29 Sep 2021 07:00:00 GMT",
-      "title": "FDA grants fast track designation to acelarin for biliary tract cancer - Healio",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDVMOHJCSUZBQl9JSTI3aTAxNkRHNjZxQl8tbElmbFVHMmdjWUhsWFNISVE1V2NrdzFaeGcwUk1semVwR3M1UEYxenJBenBwaUN0SmlraTBINTFrRVQxQnNtQTZMWjNMQnNidzRvWk0waDltMVF4VFpPUXltYUpfZEw2OXFaVWgxUjRVYURWaWJVdUlmUzYyTUVOdXZPV2Zfb0ZST3FKLXBJcVVZUDNYMmRQMWJCeVRKWFZ0b3hEcmttUVJfZUE?oc=5",
-      "sentiment": "neutral"
-    },
     {
       "date": "Wed, 21 Aug 2019 07:00:00 GMT",
       "title": "NuCana's retooled chemo drug comes up short in pancreatic cancer phase 3 - Fierce Biotech",
@@ -265,6 +259,12 @@
       "title": "NuCana (NCNA) FDA Approvals, PDUFA Dates & Drug Alerts 2026 - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OWjRBRWFKRXc4aWtrb3cwazhGb29XQXpITHM5bXBQWEplY0l3TE91SXJiTkUzNFhSZTJfYV8wRUdjc0gxOGs2R1pNUDlQdzNHZk1hWTA5Z0dackJZVm44czJVNmM2ZG56?oc=5",
       "sentiment": "positive"
+    },
+    {
+      "date": "Tue, 08 Mar 2022 08:00:00 GMT",
+      "title": "NuCana's twist on chemo drug Gemzar fails in phase 3 again - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2xhLWZYZWhVTDE3R2NGcHNNSWtleE5tQno1NVFKNHFPdUJjVVJUSE0tU2RiTzNiVjRHLUdXSG0xVkx6b0l0MklRQkFYLWswa1RWVGhPTnJkNVhwX2FUUmNsWTZTRVBrQ3p4dzk3VGlhMmUwYlhUUTFaYWlhWHF1Tm50TzdjWjU0Rm1zNTVRNnAyY1lKajVhSWJR?oc=5",
+      "sentiment": "neutral"
     }
   ]
 }
