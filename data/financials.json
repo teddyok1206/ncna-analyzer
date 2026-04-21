@@ -1,6 +1,6 @@
 {
   "ticker": "NCNA",
-  "updated_at": "2026-04-20T01:47:57.186733",
+  "updated_at": "2026-04-21T01:28:57.633047",
   "balance_sheet": {
     "cash_history": {
       "2025-12-31": 24251000
@@ -37,8 +37,8 @@
   },
   "runway": null,
   "key_metrics": {
-    "market_cap": 9364435,
-    "enterprise_value": 46797471744,
+    "market_cap": 9530913,
+    "enterprise_value": 47629848576,
     "total_cash": 24251000,
     "total_debt": 676000,
     "operating_cash_flow": -7467000,
