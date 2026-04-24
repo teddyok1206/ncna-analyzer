@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-23T01:46:28.847114",
+  "updated_at": "2026-04-24T01:45:31.031302",
   "articles": [
+    {
+      "title": "Scotland’s Top 10 Biotech Companies to Watch Out For - Labiotech.eu",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSmlVUURSZ2NWbkwyZFMyRjZ0X2tjQTFseXBqb241c2M1ZGc2WFM1T0Vrak44Y1pzcVNmWm5sejlMR0lxdGc3Zi1fNmNHdnQtdzk3TDJhQl85Y2tKNVhGVTJkalV4ZDdwdHlGMw?oc=5",
+      "published": "Wed, 30 Jun 2021 07:00:00 GMT",
+      "source": "news.google.com",
+      "summary": "Scotland’s Top 10 Biotech Companies to Watch Out For&nbsp;&nbsp;Labiotech.eu",
+      "sentiment": "neutral"
+    },
     {
       "title": "FDA grants fast track designation to acelarin for biliary tract cancer - Healio",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDVMOHJCSUZBQl9JSTI3aTAxNkRHNjZxQl8tbElmbFVHMmdjWUhsWFNISVE1V2NrdzFaeGcwUk1semVwR3M1UEYxenJBenBwaUN0SmlraTBINTFrRVQxQnNtQTZMWjNMQnNidzRvWk0waDltMVF4VFpPUXltYUpfZEw2OXFaVWgxUjRVYURWaWJVdUlmUzYyTUVOdXZPV2Zfb0ZST3FKLXBJcVVZUDNYMmRQMWJCeVRKWFZ0b3hEcmttUVJfZUE?oc=5",
@@ -10,28 +18,12 @@
       "sentiment": "neutral"
     },
     {
-      "title": "NuCana plc (NCNA) Stock: Market Sentiment Analysis | Q3 2024: Profit Exceeds Views - Verified Analyst Reports - Cổng thông tin điện tử Tỉnh Sơn La",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFlMYWtMYThsMnpVQURmLV95VXNldTFCWGdYZUt2dVN2UUdzMDMzc3BNVXpUU3A4al9FRlJrdFJnaFhWUGtUdk9Zc19wR2o1a0ctb0F0MWNSb3BnVG4xelhiWmdJUjgzcl9aVTlTUmM3Q3B6cFdNa2dualNncjlEVVBycHdJNkFpbzFIbk5XWngwMHJqbTRWU2NudXg0Rk1MRklvbXRYNnVlT2gyNXpzY2IxQXY?oc=5",
-      "published": "Wed, 22 Apr 2026 13:22:04 GMT",
-      "source": "news.google.com",
-      "summary": "NuCana plc (NCNA) Stock: Market Sentiment Analysis | Q3 2024: Profit Exceeds Views - Verified Analyst Reports&nbsp;&nbsp;Cổng thông tin điện tử Tỉnh Sơn La",
-      "sentiment": "neutral"
-    },
-    {
       "title": "NuCana's retooled chemo drug comes up short in pancreatic cancer phase 3 - Fierce Biotech",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkwxR0JMa2Q0cm9VeDd4TWNCX2d2bFg2Rkt5MWhqRmhCTnNEd0J0ejgxVmk2NmJpZmFHdXdfVWpGU0lXaGlSamU3TXFOZ0NNalY2dmlGWHo2ZHNKakFRX0xJbDI4alEyOE1INWQ0Ulg3djRSWFQySUdLbEl3a09XeW1JekJpalNuN3ZjZXNaM0djakdzcVlBQXUweE1PUVoyaDEwZkRaX2Vlenc?oc=5",
       "published": "Wed, 21 Aug 2019 07:00:00 GMT",
       "source": "news.google.com",
       "summary": "NuCana's retooled chemo drug comes up short in pancreatic cancer phase 3&nbsp;&nbsp;Fierce Biotech",
       "sentiment": "neutral"
-    },
-    {
-      "title": "NuCana Stock Tumbles After Pancreatic Cancer Trial Halted Due to Futility - BioSpace",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnV6c2ctRG95OTBzRUNka0ZlVUlZLUl5SmZmSXJ6TlUxd0lZSE1jXzJDbThMdEFMcDh2ZzRGR2dwRk1aazJIS0t3UjFfVzdoYzU2TUFReVR5b0N4ODYxa0RkSzl2YWZOZXRIMEVqOGVVcHlpTE5jdXhETkNSYjFiMUROU2lxRTkzdFh6eWt3cVltb1I1bHgyOHR2MnJSXzg?oc=5",
-      "published": "Wed, 21 Aug 2019 07:00:00 GMT",
-      "source": "news.google.com",
-      "summary": "NuCana Stock Tumbles After Pancreatic Cancer Trial Halted Due to Futility&nbsp;&nbsp;BioSpace",
-      "sentiment": "negative"
     },
     {
       "title": "NuCana (NCNA) director reports substantial options over ordinary shares - Stock Titan",
@@ -90,11 +82,11 @@
       "sentiment": "positive"
     },
     {
-      "title": "Is NuCana plc (NCNA) Stock a Buy or Sell | Price at $1.88, Down 8.29% - Pro Level Trade Signals - Cổng thông tin điện tử tỉnh Lào Cai",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWRuQk1XNVNybmRDbk5tQ0wyZzF2VE91R2Rxa0F1NGNnNUY3aEtJZEhKM0ZSQkdnYlF3cS1ZU2k4OXp2eUpGcUI1Q09hcHFuZTdXdU1aaXJlQkk4RFQ3cGY1RDdUMTZHU2RKbmQ0Mmg2NEhFZlhuV0N2ZWY0aEJFTE1fNHlRVnBlLW4xSDVnTFpwbDljMldIZ3pPVy1MLU5xV0VmMVlSZGl1bWRCSjQ3M0pRQ1g?oc=5",
+      "title": "Is NuCana plc (NCNA) Stock a Buy or Sell | Price at $1.88, Down 8.29% - Beta Signals - Cổng thông tin điện tử Tỉnh Sơn La",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1NDeFNuTEJ4ME95RTZnRE51NHdvbXY4dlZlOVg5dHlodkl5VFJHeTYyNXN0cXZOVDQwaDlyUUV0al93NjNfcWlYZnZBQ1Z3ZUtJWlN6a25SaUtnNi1uOG9YOFFhMnd5UlhfbHAwek1uWmtEQ3ZoTGRzTTRXS05RdHFqclhlNzd3Nm1yd1NjWWFNd0NqNjJvaDRnTWV2RzRSREQtTWRWRjhpdWttVUE?oc=5",
       "published": "Wed, 08 Apr 2026 07:00:00 GMT",
       "source": "news.google.com",
-      "summary": "Is NuCana plc (NCNA) Stock a Buy or Sell | Price at $1.88, Down 8.29% - Pro Level Trade Signals&nbsp;&nbsp;Cổng thông tin điện tử tỉnh Lào Cai",
+      "summary": "Is NuCana plc (NCNA) Stock a Buy or Sell | Price at $1.88, Down 8.29% - Beta Signals&nbsp;&nbsp;Cổng thông tin điện tử Tỉnh Sơn La",
       "sentiment": "neutral"
     },
     {
@@ -154,6 +146,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Negative indicators push NuCana stock lower amid continued selling activity - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1hEM3NLNUtESVBpTy1Za1ZnLXpQV3VNRU5YLWhkeldueFI4eUxaY2l6SzB3Q3JFM09TMlBoVVBEOEM2VkVaLUwyWDlLQ0U0WmxSbGk2NkxGOENZSFFHNzhUZWw3QzBNZVNBNTd3RDRIalJJOHRYLWJ2ZkVsN1ZZcVpMWjFCeHlnajhKbGtlTkNhU2lWTy1pZl9tRQ?oc=5",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": "news.google.com",
+      "summary": "Negative indicators push NuCana stock lower amid continued selling activity&nbsp;&nbsp;Traders Union",
+      "sentiment": "neutral"
+    },
+    {
       "title": "NuCana stock price forecast: $2.41 resistance eyed as NCNA moves down 4.37% - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWJESk9sWnRwa1U0bi16QTJ6TWV5TnUtNExsNmZqT3N2cXl1SFgzZ2I1RjBzTDB2VDFIMUhLeTQxR1ptMTI2bmhIRU9JQk9CNkVhSWF2Qmd3eGtuVy1vNUx0T2VsNGd3dzhESnVIRVZ6N3luYVlsM1JCNFRlejZ6WDlNUnNBcU5FcXRqUnJjaG91a3NHa3ZzOE5UQXV3UQ?oc=5",
       "published": "Tue, 21 Apr 2026 16:14:13 GMT",
@@ -171,7 +171,7 @@
     },
     {
       "title": "NCNA: GOODBYE or GOOD BUY⁉️🤔 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmTWlBenB6VGFnQWg3VUgtWGtWRFBZUHdTZDFCYmJMUVNyMTF6Tld5UmF2eEk4ODY0Yjk5bTExam1mSER0ZmVOZlMtMW9NMWZJTWRiUzFzaWpXbnNvMUdfd3ppYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWjlNZ3lTbEdELVB2aEVoY0xWWTZ1eVdHajI3emJ1RzRPTmJZOGM2RlFiVWVIWENNalBsWnJheV8tdjNqNkFOeDRleFlkcWlmQnJJaEZUNTNCWDMyRGJ0anh3?oc=5",
       "published": "Tue, 10 Jun 2025 07:00:00 GMT",
       "source": "news.google.com",
       "summary": "NCNA: GOODBYE or GOOD BUY⁉️🤔&nbsp;&nbsp;Moomoo",
@@ -192,6 +192,14 @@
       "source": "news.google.com",
       "summary": "NuCana (NCNA) Announces $7 Million Direct Offering to Boost Drug Development | NCNA Stock News&nbsp;&nbsp;GuruFocus",
       "sentiment": "negative"
+    },
+    {
+      "title": "Cancer drug developer NuCana hires veteran to run operations - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRNc2Z3cE9zU0hsREl3d2gtOEVSY3o2ZDEwQ3RZOFMxOHZjLXB2c2t2YkducjlqNUtWZGh3bV9RdnY4SGZfaTVoYlJGME43NWw0c004WHRtaGZJbUlFT25VdnpMZnlpd2x5ckgxV0dXcU1IV05TRV9TOVhiM0lLeno0SUw5amwzTVVpbHI1MV9FUUhma3QySlQ3bG9OTVFfT0owcEYzVQ?oc=5",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "source": "news.google.com",
+      "summary": "Cancer drug developer NuCana hires veteran to run operations&nbsp;&nbsp;Stock Titan",
+      "sentiment": "neutral"
     },
     {
       "title": "NuCana Names Theresa Bruce Chief Operating Officer to Drive Oncology Pipeline - TipRanks",
@@ -242,19 +250,19 @@
       "sentiment": "neutral"
     },
     {
+      "title": "NuCana plc (NCNA) Stock: Market Sentiment Analysis | Q3 2024: Profit Exceeds Views - Community Trade Ideas - Cổng thông tin điện tử tỉnh Lào Cai",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlJ3ekhzcHNpV0JaMUhVaWVZMERqeWpmd1RTREFjR3U0Tmdzc3J2VWYtdUw4UXpOcjZxb0lMaE1uZG44Q1Y1VWctNWxDZFpOSkc4OWExOVBzMlZwQWthaFB6NWV2QnkydTgwWVRxODVCUjkxOXc2N2hDSFJsR2J2T0NUTzZUclBmaDBKbVpwSlJkTko2TlV2VEp0RWlPa1ZvN2lzVDZTeGZLbnVFd3NNN1IxaVBPdw?oc=5",
+      "published": "Thu, 23 Apr 2026 16:00:21 GMT",
+      "source": "news.google.com",
+      "summary": "NuCana plc (NCNA) Stock: Market Sentiment Analysis | Q3 2024: Profit Exceeds Views - Community Trade Ideas&nbsp;&nbsp;Cổng thông tin điện tử tỉnh Lào Cai",
+      "sentiment": "neutral"
+    },
+    {
       "title": "NuCana (NCNA) Chief Medical Officer reports extensive option-based holdings - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzJpLUJVRGFydEEzVDZvaXVtZktXNDB1X2tMdkZBVWQ5TllpaklaUHo1OFowSXlIUmhmOERJQnNwTDlHWlVaTWlwYjhsYkxPYTlqMkd1Y082aWNseDRiSFdmV3ctcVN6Sm5EcUNnOVRaeVJ0NjNwUW5BbmhmVHRReTJVOU80V0ZIZ2N6TjJjZXRfdHFUcVNXVHRCRk1pUlRmcmtPUUhSeTRPVkNJeFl4c3RPR09ZamxKTGdrQVFOYw?oc=5",
       "published": "Thu, 19 Mar 2026 07:00:00 GMT",
       "source": "news.google.com",
       "summary": "NuCana (NCNA) Chief Medical Officer reports extensive option-based holdings&nbsp;&nbsp;Stock Titan",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "NuCana Posts 2025 Results, Highlights NUC-7738 Progress and Cash Runway Into 2029 - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR290VG15dFF1azBwbkdEWmZDX0lYNnpWN3EyYXQxNFlBai1laUs5NUF5Skx4anVTMS1IdzBpd2VEVXZ6VVcxblprWW1zQmRiM1N4WVRPczhsSnlOZ2JONVZkakV1SzdyWUJVem5kQ015YVBPdDZUZDBWejI2M09JXzNMX1BPTFFQYkNmU1lrcWoyREh0dEdORlpYckJCelI0RXFHRDYzU3VGMTNNUDNYV3NqUjJLQmRqQ1diTFJ3aHJYcV9lY3g4YUZMVDY?oc=5",
-      "published": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "source": "news.google.com",
-      "summary": "NuCana Posts 2025 Results, Highlights NUC-7738 Progress and Cash Runway Into 2029&nbsp;&nbsp;TipRanks",
       "sentiment": "neutral"
     },
     {
@@ -346,11 +354,11 @@
       "sentiment": "neutral"
     },
     {
-      "title": "NuCana plc (NCNA) Stock: Technical Setup Analysis (+5.63%) 2026-04-18 - Earnings Beat Stocks - Xã Vĩnh Công",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVFwVUxmbF95Zmo5N2I0aUt4NHFmMTJaSFVOUWNxTEFzU3o4Uy1KODFFNy10Mm1xWEQtLXRoeWZ5UFV0ZE1TTkNxaEJfZkhRN083Y2VKWEhwb1FjSHNuUkdpTkZPLTV3cVZXaXIwRS00dG5tZlY1RUZHOVhHaDhGajZUYkVLRzI5MkdwLU9TYURKaEdUeW5lZWo5S2kzNWVISVZqYjczejdrYXFF?oc=5",
+      "title": "NuCana plc (NCNA) Stock: Technical Setup Analysis (+5.63%) 2026-04-18 - Earnings Beat Stocks - Cổng thông tin điện tử tỉnh Lào Cai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1RWVTZ4dDNTNG56V2RZeENZdWw1VzEzRUZZSmVsT3pWcHd6WTlrZ2xDUjBqWlNIbDdWNUg3WU1vNTRjNVpKS2llbG1KMlNKdHl1cGY4ckdzZ1RMcHdfWS1XY092TGEydW9RaWhRRGR3dGZKSkRqdmxmQll6MEJwc1B0R05mQllaNHlHOEhNS2c0YlBWLUxVdXZ5WUZaaDkxMW8zRQ?oc=5",
       "published": "Sat, 18 Apr 2026 17:28:20 GMT",
       "source": "news.google.com",
-      "summary": "NuCana plc (NCNA) Stock: Technical Setup Analysis (+5.63%) 2026-04-18 - Earnings Beat Stocks&nbsp;&nbsp;Xã Vĩnh Công",
+      "summary": "NuCana plc (NCNA) Stock: Technical Setup Analysis (+5.63%) 2026-04-18 - Earnings Beat Stocks&nbsp;&nbsp;Cổng thông tin điện tử tỉnh Lào Cai",
       "sentiment": "neutral"
     },
     {
@@ -386,27 +394,19 @@
       "sentiment": "neutral"
     },
     {
-      "title": "NuCana (NCNA) Earnings Date and Reports 2026 - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nX3AzTllzOVRqY2ZCRFBaTVc0ckZyRzA5VXhXTFQtTzAzT2hZVGFLVnpRcGhQLTZWZS0tanZyUkNhU3h0ekk0MUFpT2ZDQ0JqcW4yQzJvMFlyOW5yNTRHZ0RtVmdFQQ?oc=5",
-      "published": "Mon, 13 Aug 2018 06:58:37 GMT",
+      "title": "NuCana To Carry Out 1-for-25 Reverse Stock Split On April 16th, 2024 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTlQaUhycURLMEExREdpbjFfWmg5OTRwTTl4emRLNHAxMzExQ1dLTkFLRE1qa2VsOWNDSHk5TFRBM05wUGEtbXlLNEZscnZQVXg2OXJIeTNsYTY0TTZEaE1kSjdveDVlX3B3Tl9iOTF0MHFaSks4NVZiQkVrMlRZNV9NcTNCM1VpU1FhbVpUeHhwVVNV?oc=5",
+      "published": "Mon, 15 Apr 2024 18:53:11 GMT",
       "source": "news.google.com",
-      "summary": "NuCana (NCNA) Earnings Date and Reports 2026&nbsp;&nbsp;MarketBeat",
+      "summary": "NuCana To Carry Out 1-for-25 Reverse Stock Split On April 16th, 2024&nbsp;&nbsp;Moomoo",
       "sentiment": "neutral"
-    },
-    {
-      "title": "NuCana's Melanoma Breakthrough: Key Drug Advances to Expansion Trial, Q1 Losses Drop 63% Year-over-Year - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZG5KdFpHckRkM0JURGw2N0Rrd05kXzBtcEFPSzRFbklBLThKMzVsTUs4S0FLRFFadzEtc1ZqSl9NVkk1MXVvTzFzRUlzZENXZGhWMTRIT2lFd0ZVa1pUQmZzUkplOXlyQlFLS3N3dlVsb29sc1N4eVMtTmpRTHJVUDVEZ3pueTAyOXhvdUd0NFR1Z2o1Nmp1dEwxbU93d29PdDlWWkxrNkpKdk90V3h0VllyUTJXdTVmazcxdA?oc=5",
-      "published": "Mon, 02 Jun 2025 07:00:00 GMT",
-      "source": "news.google.com",
-      "summary": "NuCana's Melanoma Breakthrough: Key Drug Advances to Expansion Trial, Q1 Losses Drop 63% Year-over-Year&nbsp;&nbsp;Stock Titan",
-      "sentiment": "positive"
     }
   ],
   "sentiment_summary": {
     "total": 50,
-    "positive": 3,
-    "negative": 3,
-    "neutral": 44,
+    "positive": 2,
+    "negative": 2,
+    "neutral": 46,
     "score": 0.0
   }
 }
