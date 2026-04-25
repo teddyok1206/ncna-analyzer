@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T01:45:31.990544",
+  "updated_at": "2026-04-25T01:25:22.075216",
   "upcoming_catalysts": [
     {
       "nct_id": "NCT03829254",
@@ -20,7 +20,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_until_completion": 99
+      "days_until_completion": 98
     }
   ],
   "recent_catalysts": [
@@ -56,7 +56,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 329
+      "days_since_completion": 330
     },
     {
       "nct_id": "NCT05678257",
@@ -78,7 +78,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 603
+      "days_since_completion": 604
     },
     {
       "nct_id": "NCT03428958",
@@ -100,7 +100,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 3,
-      "days_since_completion": 766
+      "days_since_completion": 767
     },
     {
       "nct_id": "NCT04163900",
@@ -118,7 +118,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 1514
+      "days_since_completion": 1515
     },
     {
       "nct_id": "NCT03610100",
@@ -137,7 +137,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 2061
+      "days_since_completion": 2062
     },
     {
       "nct_id": "NCT02723240",
@@ -155,7 +155,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2251
+      "days_since_completion": 2252
     },
     {
       "nct_id": "NCT03146663",
@@ -173,7 +173,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 2306
+      "days_since_completion": 2307
     },
     {
       "nct_id": "NCT02351765",
@@ -194,7 +194,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2611
+      "days_since_completion": 2612
     },
     {
       "nct_id": "NCT02303912",
@@ -212,7 +212,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3378
+      "days_since_completion": 3379
     },
     {
       "nct_id": "NCT01621854",
@@ -230,7 +230,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3980
+      "days_since_completion": 3981
     }
   ],
   "catalyst_score": 2,
@@ -246,12 +246,6 @@
       "date": "Wed, 29 Sep 2021 07:00:00 GMT",
       "title": "FDA grants fast track designation to acelarin for biliary tract cancer - Healio",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDVMOHJCSUZBQl9JSTI3aTAxNkRHNjZxQl8tbElmbFVHMmdjWUhsWFNISVE1V2NrdzFaeGcwUk1semVwR3M1UEYxenJBenBwaUN0SmlraTBINTFrRVQxQnNtQTZMWjNMQnNidzRvWk0waDltMVF4VFpPUXltYUpfZEw2OXFaVWgxUjRVYURWaWJVdUlmUzYyTUVOdXZPV2Zfb0ZST3FKLXBJcVVZUDNYMmRQMWJCeVRKWFZ0b3hEcmttUVJfZUE?oc=5",
-      "sentiment": "neutral"
-    },
-    {
-      "date": "Wed, 21 Aug 2019 07:00:00 GMT",
-      "title": "NuCana's retooled chemo drug comes up short in pancreatic cancer phase 3 - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkwxR0JMa2Q0cm9VeDd4TWNCX2d2bFg2Rkt5MWhqRmhCTnNEd0J0ejgxVmk2NmJpZmFHdXdfVWpGU0lXaGlSamU3TXFOZ0NNalY2dmlGWHo2ZHNKakFRX0xJbDI4alEyOE1INWQ0Ulg3djRSWFQySUdLbEl3a09XeW1JekJpalNuN3ZjZXNaM0djakdzcVlBQXUweE1PUVoyaDEwZkRaX2Vlenc?oc=5",
       "sentiment": "neutral"
     },
     {
