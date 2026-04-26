@@ -1,6 +1,6 @@
 {
   "ticker": "NCNA",
-  "updated_at": "2026-04-25T01:25:19.329979",
+  "updated_at": "2026-04-26T01:47:27.023429",
   "price": {
     "current": 2.06,
     "prev_close": 2.15,
@@ -8,7 +8,7 @@
     "open": 2.1,
     "high": 2.12,
     "low": 2.01,
-    "volume": 20234,
+    "volume": 20600,
     "high_52w": 220.0,
     "low_52w": 1.34,
     "pct_from_52w_high": -99.06
@@ -1286,15 +1286,15 @@
     {
       "date": "2026-04-24",
       "close": 2.06,
-      "volume": 20234
+      "volume": 20600
     }
   ],
   "info": {
     "market_cap": 8573660,
     "shares_outstanding": 4161971,
     "float_shares": 20807898345,
-    "avg_volume_10d": 25380,
-    "short_ratio": 3.27,
-    "short_pct_of_float": 0.0405
+    "avg_volume_10d": 22790,
+    "short_ratio": 3.28,
+    "short_pct_of_float": 0.040599998
   }
 }

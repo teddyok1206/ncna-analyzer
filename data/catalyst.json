@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T01:25:22.075216",
+  "updated_at": "2026-04-26T01:47:29.613316",
   "upcoming_catalysts": [
     {
       "nct_id": "NCT03829254",
@@ -20,7 +20,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_until_completion": 98
+      "days_until_completion": 97
     }
   ],
   "recent_catalysts": [
@@ -56,7 +56,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 330
+      "days_since_completion": 331
     },
     {
       "nct_id": "NCT05678257",
@@ -78,7 +78,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 604
+      "days_since_completion": 605
     },
     {
       "nct_id": "NCT03428958",
@@ -100,7 +100,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 3,
-      "days_since_completion": 767
+      "days_since_completion": 768
     },
     {
       "nct_id": "NCT04163900",
@@ -118,7 +118,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 1515
+      "days_since_completion": 1516
     },
     {
       "nct_id": "NCT03610100",
@@ -137,7 +137,7 @@
       ],
       "catalyst_type": "Phase 3 Data Readout",
       "importance": 4,
-      "days_since_completion": 2062
+      "days_since_completion": 2063
     },
     {
       "nct_id": "NCT02723240",
@@ -155,7 +155,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2252
+      "days_since_completion": 2253
     },
     {
       "nct_id": "NCT03146663",
@@ -173,7 +173,7 @@
       ],
       "catalyst_type": "Phase 2 Data Readout",
       "importance": 2,
-      "days_since_completion": 2307
+      "days_since_completion": 2308
     },
     {
       "nct_id": "NCT02351765",
@@ -194,7 +194,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 2612
+      "days_since_completion": 2613
     },
     {
       "nct_id": "NCT02303912",
@@ -212,7 +212,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3379
+      "days_since_completion": 3380
     },
     {
       "nct_id": "NCT01621854",
@@ -230,7 +230,7 @@
       ],
       "catalyst_type": "Phase 1 Safety/Dose",
       "importance": 2,
-      "days_since_completion": 3981
+      "days_since_completion": 3982
     }
   ],
   "catalyst_score": 2,
