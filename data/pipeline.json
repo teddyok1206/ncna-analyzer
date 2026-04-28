@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:51:15.431829",
+  "updated_at": "2026-04-28T01:58:53.759772",
   "studies": [
     {
       "nct_id": "NCT03610100",
@@ -40,21 +40,21 @@
       "url": "https://clinicaltrials.gov/study/NCT02351765"
     },
     {
-      "nct_id": "NCT03146663",
-      "title": "NUC-1031 in Patients With Platinum-Resistant Ovarian Cancer",
-      "status": "TERMINATED",
-      "phase": "Phase 2",
+      "nct_id": "NCT01621854",
+      "title": "NUC-1031 in Patients With Advanced Solid Tumours",
+      "status": "COMPLETED",
+      "phase": "Phase 1",
       "conditions": [
-        "Ovarian Cancer"
+        "Cancer"
       ],
-      "start_date": "2017-09-28",
-      "primary_completion": "2019-12-31",
-      "completion_date": "2019-12-31",
-      "enrollment": 53,
-      "sponsor": "NuCana plc",
-      "summary": "This study was designed to evaluate the effect of two dose levels of NUC-1031 (500 mg/m2 and 750mg/m2) in patients with ovarian cancer. The primary objective was to determine the anti-tumor activity of NUC-1031 at the selected dose level (500 mg/m2 or 750 mg/m2).",
-      "last_updated": "2021-02-21",
-      "url": "https://clinicaltrials.gov/study/NCT03146663"
+      "start_date": "2012-10",
+      "primary_completion": "2015-06",
+      "completion_date": "2015-06",
+      "enrollment": 68,
+      "sponsor": "Imperial College London",
+      "summary": "This is a two-part Phase I, open label, dose-escalation, study of NUC-1031 as a single agent in patients with advanced solid tumours who have failed to respond to or who have relapsed after treatment with standard therapy. NUC-1031 is a ProTide of gemcitabine, a drug that has been used widely and effectively against cancers for many years. Both NUC-1031 and gemcitabine work by preventing cancer cells from dividing by attacking their DNA (deoxyribonucleic acid). Non clinical studies have shown th",
+      "last_updated": "2024-03-20",
+      "url": "https://clinicaltrials.gov/study/NCT01621854"
     },
     {
       "nct_id": "NCT04163900",
@@ -74,21 +74,21 @@
       "url": "https://clinicaltrials.gov/study/NCT04163900"
     },
     {
-      "nct_id": "NCT01621854",
-      "title": "NUC-1031 in Patients With Advanced Solid Tumours",
-      "status": "COMPLETED",
-      "phase": "Phase 1",
+      "nct_id": "NCT03146663",
+      "title": "NUC-1031 in Patients With Platinum-Resistant Ovarian Cancer",
+      "status": "TERMINATED",
+      "phase": "Phase 2",
       "conditions": [
-        "Cancer"
+        "Ovarian Cancer"
       ],
-      "start_date": "2012-10",
-      "primary_completion": "2015-06",
-      "completion_date": "2015-06",
-      "enrollment": 68,
-      "sponsor": "Imperial College London",
-      "summary": "This is a two-part Phase I, open label, dose-escalation, study of NUC-1031 as a single agent in patients with advanced solid tumours who have failed to respond to or who have relapsed after treatment with standard therapy. NUC-1031 is a ProTide of gemcitabine, a drug that has been used widely and effectively against cancers for many years. Both NUC-1031 and gemcitabine work by preventing cancer cells from dividing by attacking their DNA (deoxyribonucleic acid). Non clinical studies have shown th",
-      "last_updated": "2024-03-20",
-      "url": "https://clinicaltrials.gov/study/NCT01621854"
+      "start_date": "2017-09-28",
+      "primary_completion": "2019-12-31",
+      "completion_date": "2019-12-31",
+      "enrollment": 53,
+      "sponsor": "NuCana plc",
+      "summary": "This study was designed to evaluate the effect of two dose levels of NUC-1031 (500 mg/m2 and 750mg/m2) in patients with ovarian cancer. The primary objective was to determine the anti-tumor activity of NUC-1031 at the selected dose level (500 mg/m2 or 750 mg/m2).",
+      "last_updated": "2021-02-21",
+      "url": "https://clinicaltrials.gov/study/NCT03146663"
     },
     {
       "nct_id": "NCT02303912",
@@ -106,27 +106,6 @@
       "summary": "A first in human experimental treatment in which an experimental medicine,Nuc-1031, is used in combination with a standard cancer medicine, carboplatin, to treat ovarian cancer which reappear after standard cancer treatment. The aim of the trial is to determine safety, effectiveness, and clinical activity of this combination treatment.",
       "last_updated": "2021-05-18",
       "url": "https://clinicaltrials.gov/study/NCT02303912"
-    },
-    {
-      "nct_id": "NCT03428958",
-      "title": "A Safety, Pharmacokinetic and Efficacy Study of NUC-3373 in Combination With Standard Agents Used in Colorectal Cancer Treatment",
-      "status": "COMPLETED",
-      "phase": "Phase 1, Phase 2",
-      "conditions": [
-        "Colorectal Cancer",
-        "Colorectal Neoplasms",
-        "Colorectal Carcinoma",
-        "Colorectal Tumors",
-        "Neoplasms, Colorectal"
-      ],
-      "start_date": "2018-10-05",
-      "primary_completion": "2024-03-19",
-      "completion_date": "2024-03-21",
-      "enrollment": 111,
-      "sponsor": "NuCana plc",
-      "summary": "This is a three-part study of NUC-3373 administered by intravenous (IV) infusion across two administration schedules, either as monotherapy or as part of various combinations with agents commonly used to treat CRC (leucovorin, oxaliplatin, irinotecan, bevacizumab, cetuximab and panitumumab). The primary objective is to identify a recommended dose and schedule for NUC-3373 when combined with these agents.",
-      "last_updated": "2025-04-23",
-      "url": "https://clinicaltrials.gov/study/NCT03428958"
     },
     {
       "nct_id": "NCT05714553",
@@ -162,21 +141,25 @@
       "url": "https://clinicaltrials.gov/study/NCT05714553"
     },
     {
-      "nct_id": "NCT02723240",
-      "title": "NUC-3373 in Advanced Solid Tumours",
+      "nct_id": "NCT03428958",
+      "title": "A Safety, Pharmacokinetic and Efficacy Study of NUC-3373 in Combination With Standard Agents Used in Colorectal Cancer Treatment",
       "status": "COMPLETED",
-      "phase": "Phase 1",
+      "phase": "Phase 1, Phase 2",
       "conditions": [
-        "Cancer"
+        "Colorectal Cancer",
+        "Colorectal Neoplasms",
+        "Colorectal Carcinoma",
+        "Colorectal Tumors",
+        "Neoplasms, Colorectal"
       ],
-      "start_date": "2016-01",
-      "primary_completion": "2020-02-24",
-      "completion_date": "2021-02-24",
-      "enrollment": 62,
-      "sponsor": "University of Oxford",
-      "summary": "A two-part, phase I open label, dose escalation and expansion study to assess safety, pharmacokinetics and clinical activity of NUC-3373, a nucleotide analogue, in participants with advanced solid tumours.",
-      "last_updated": "2024-02-14",
-      "url": "https://clinicaltrials.gov/study/NCT02723240"
+      "start_date": "2018-10-05",
+      "primary_completion": "2024-03-19",
+      "completion_date": "2024-03-21",
+      "enrollment": 111,
+      "sponsor": "NuCana plc",
+      "summary": "This is a three-part study of NUC-3373 administered by intravenous (IV) infusion across two administration schedules, either as monotherapy or as part of various combinations with agents commonly used to treat CRC (leucovorin, oxaliplatin, irinotecan, bevacizumab, cetuximab and panitumumab). The primary objective is to identify a recommended dose and schedule for NUC-3373 when combined with these agents.",
+      "last_updated": "2025-04-23",
+      "url": "https://clinicaltrials.gov/study/NCT03428958"
     },
     {
       "nct_id": "NCT05678257",
@@ -198,6 +181,23 @@
       "summary": "This is a randomized, open-label, dose/schedule optimization study comparing NUC-3373/leucovorin (LV)/irinotecan plus bevacizumab (NUFIRI-bev) to 5-FU/LV/irinotecan plus bevacizumab (FOLFIRI-bev) for the treatment of patients with unresectable metastatic colorectal cancer.\n\nA total of 171 patients will be randomized 1:1:1 to either NUFIRI-bev on a weekly NUC-3373 schedule, NUFIRI-bev based on an alternate weekly NUC-3373 schedule, or FOLFIRI bev on an alternate weekly schedule. The main objectiv",
       "last_updated": "2025-09-12",
       "url": "https://clinicaltrials.gov/study/NCT05678257"
+    },
+    {
+      "nct_id": "NCT02723240",
+      "title": "NUC-3373 in Advanced Solid Tumours",
+      "status": "COMPLETED",
+      "phase": "Phase 1",
+      "conditions": [
+        "Cancer"
+      ],
+      "start_date": "2016-01",
+      "primary_completion": "2020-02-24",
+      "completion_date": "2021-02-24",
+      "enrollment": 62,
+      "sponsor": "University of Oxford",
+      "summary": "A two-part, phase I open label, dose escalation and expansion study to assess safety, pharmacokinetics and clinical activity of NUC-3373, a nucleotide analogue, in participants with advanced solid tumours.",
+      "last_updated": "2024-02-14",
+      "url": "https://clinicaltrials.gov/study/NCT02723240"
     },
     {
       "nct_id": "NCT03829254",
@@ -225,8 +225,8 @@
     "by_phase": {
       "Phase 2, Phase 3": 1,
       "Phase 1": 4,
-      "Phase 2": 2,
       "Phase 3": 1,
+      "Phase 2": 2,
       "Phase 1, Phase 2": 3
     },
     "by_status": {

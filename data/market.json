@@ -1,43 +1,38 @@
 {
   "ticker": "NCNA",
-  "updated_at": "2026-04-27T01:51:14.670558",
+  "updated_at": "2026-04-28T01:58:53.071485",
   "price": {
-    "current": 2.06,
-    "prev_close": 2.15,
-    "change_pct": -4.19,
-    "open": 2.1,
-    "high": 2.12,
-    "low": 2.01,
-    "volume": 20600,
+    "current": 2.21,
+    "prev_close": 2.06,
+    "change_pct": 7.28,
+    "open": 2.04,
+    "high": 2.24,
+    "low": 2.04,
+    "volume": 53427,
     "high_52w": 220.0,
     "low_52w": 1.34,
-    "pct_from_52w_high": -99.06
+    "pct_from_52w_high": -99.0
   },
   "technicals": {
-    "rsi_14": 52.31,
-    "macd": 0.0765,
-    "macd_signal": 0.0503,
-    "macd_hist": 0.0262,
-    "bb_upper": 2.5341,
-    "bb_lower": 1.3249,
-    "bb_mid": 1.9295,
-    "sma_20": 1.9295,
-    "sma_50": 1.9483,
-    "sma_200": 3.9451
+    "rsi_14": 57.93,
+    "macd": 0.0808,
+    "macd_signal": 0.0564,
+    "macd_hist": 0.0244,
+    "bb_upper": 2.5344,
+    "bb_lower": 1.4056,
+    "bb_mid": 1.97,
+    "sma_20": 1.97,
+    "sma_50": 1.9509,
+    "sma_200": 3.8961
   },
   "signals": [
     {
-      "type": "bearish",
+      "type": "bullish",
       "indicator": "SMA",
-      "note": "SMA20 < SMA50"
+      "note": "SMA20 > SMA50"
     }
   ],
   "history": [
-    {
-      "date": "2025-04-25",
-      "close": 110.0,
-      "volume": 1695
-    },
     {
       "date": "2025-04-28",
       "close": 112.0,
@@ -1286,14 +1281,19 @@
     {
       "date": "2026-04-24",
       "close": 2.06,
-      "volume": 20600
+      "volume": 21200
+    },
+    {
+      "date": "2026-04-27",
+      "close": 2.21,
+      "volume": 53427
     }
   ],
   "info": {
-    "market_cap": 8573660,
+    "market_cap": 9197956,
     "shares_outstanding": 4161971,
     "float_shares": 20807898345,
-    "avg_volume_10d": 22790,
+    "avg_volume_10d": 24470,
     "short_ratio": 3.28,
     "short_pct_of_float": 0.040599998
   }
