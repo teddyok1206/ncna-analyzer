@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T02:00:22.531798",
+  "updated_at": "2026-05-01T02:03:06.122296",
   "scores": {
     "fundamental": 7
   },
@@ -7,7 +7,7 @@
     {
       "type": "bullish",
       "category": "valuation",
-      "note": "현금이 시가총액의 286% — 하방 지지력 높음"
+      "note": "현금이 시가총액의 274% — 하방 지지력 높음"
     },
     {
       "type": "neutral",
@@ -16,7 +16,7 @@
     }
   ],
   "summary": {
-    "cash_to_market_cap_pct": 285.6,
+    "cash_to_market_cap_pct": 273.6,
     "has_revenue": false,
     "latest_quarterly_rd": 1736000
   }
